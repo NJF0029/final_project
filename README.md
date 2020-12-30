@@ -12,7 +12,9 @@ Notebooks:
 - model_first_iteration.ipynb:
 - FINAL_Model.ipynb:
 
-App: Sentiment_app_v2.py: Used Streamlit to build local app interface.
+App: 
+
+- Sentiment_app_v2.py: Used Streamlit to build local app interface.
 
 Presentation:
 
